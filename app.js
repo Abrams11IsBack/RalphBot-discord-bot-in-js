@@ -108,4 +108,4 @@ client.on('message', message => {
     });
     
 
-client.login('ODMwODk2NTMwMzA2MTA1Mzk0.YHNWsg.TEgdFuM0wV5AZZ1JbOBX0gw7vEo');
+client.login('your token');
